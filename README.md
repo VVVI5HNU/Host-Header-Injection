@@ -114,7 +114,3 @@ Host Header Injection Leading to Account Takeover via Password Reset Poisoning
 ## 📜 License
 
 This repository is intended for **educational and authorized security testing purposes only**.
-
----
-
-## ✅ End of Documentation
